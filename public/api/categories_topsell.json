@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "name": "Top Selling Products",
+  "slug": "laptop-computer",
+  "image": {
+    "id": 1,
+    "thumbnail": "/assets/images/category/collection_1.jpg",
+    "original": "/assets/images/category/collection_1.jpg"
+  },
+  "children": [
+    {
+      "id": 1,
+      "name": "Furniture",
+      "slug": "furniture"
+    },
+    {
+      "id": 2,
+      "name": "Bed & Bath",
+      "slug": "bedroom"
+    },
+    {
+      "id": 3,
+      "name": "Lighting",
+      "slug": "lighting"
+    },
+    {
+      "id": 4,
+      "name": "Decor & Pillows",
+      "slug": "decor"
+    },
+    {
+      "id": 5,
+      "name": "Outdoor",
+      "slug": "outdoor"
+    }
+  ]
+}
+

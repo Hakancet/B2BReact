@@ -1,0 +1,793 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Ses Müzik",
+      "slug": "ses-muzik",
+      "type": "mega",
+      "productCount": "125",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate1.png",
+        "original": "/assets/images/category/collection_1.jpg"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "Çantalar & Aksesuarlar",
+          "slug": "cantalar-aksesuarlar",
+          "children": [
+            {
+              "id": 1,
+              "name": "Mücevher & Saatler",
+              "slug": "mucevher-saatler"
+            },
+            {
+              "id": 2,
+              "name": "Aksesuarlar",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Düğün Yüzükleri",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Erkek Saatler",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "Kadın Saatler",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Elektronik & Dijital",
+          "slug": "elektronik-dijital",
+          "children": [
+            {
+              "id": 1,
+              "name": "Cep Telefonları & Tabletler",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Kamera, Fotoğraf & Video",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Cep Telefonları",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Tabletler",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "PC Oyunları",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Bahçe & Mutfak",
+          "slug": "bahce-mutfak",
+          "children": [
+            {
+              "id": 1,
+              "name": "Helikopterler & Parçaları",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Oyuncaklar & Hobiler",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Dış Mekan & Seyahat",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Ev & Mutfak",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "Aydınlatma & Lambalar",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Otomotiv",
+          "slug": "otomotiv",
+          "children": [
+            {
+              "id": 1,
+              "name": "Otomotiv",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Araç Alarm ve Güvenlik",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Oto Ses ve Hoparlörler",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Ev & Mutfak",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "Aydınlatma & Lambalar",
+              "slug": "daha-fazla-oto-aksesuari"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Aydınlatma & Lambalar",
+          "slug": "aydinlatma-lambalar",
+          "children": [
+            {
+              "id": 1,
+              "name": "Düğün Yüzükleri",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Elektronik & Dijital",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Bahçe & Mutfak",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Ev & Mutfak",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "Çakmak & Puro Malzemeleri",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Ev Aksesuarları",
+          "slug": "ev-aksesuarlari",
+          "children": [
+            {
+              "id": 1,
+              "name": "Çantalar & Aksesuarlar",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Elektronik & Dijital",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Bahçe & Mutfak",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Erkek İçin Hediye",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "Kadın İçin Hediye",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Telefonlar & Tabletler",
+      "slug": "telefon-tabletler",
+      "type": "mega",
+      "productCount": "255",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate2.png",
+        "original": "/assets/images/category/collection_2.jpg"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "Çantalar & Aksesuarlar",
+          "slug": "cantalar-aksesuarlar",
+          "children": [
+            {
+              "id": 1,
+              "name": "Mücevher & Saatler",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Aksesuarlar",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Düğün Yüzükleri",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Erkek Saatler",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "Kadın Saatler",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Elektronik & Dijital",
+          "slug": "elektronik-dijital",
+          "children": [
+            {
+              "id": 1,
+              "name": "Cep Telefonları & Tabletler",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Kamera, Fotoğraf & Video",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Cep Telefonları",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Tabletler",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "PC Oyunları",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Bahçe & Mutfak",
+          "slug": "bahce-mutfak",
+          "children": [
+            {
+              "id": 1,
+              "name": "Helikopterler & Parçaları",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Oyuncaklar & Hobiler",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Dış Mekan & Seyahat",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Ev & Mutfak",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "Aydınlatma & Lambalar",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        }
+      ]
+
+    },
+    {
+      "id": 3,
+      "name": "Moda & Giyim",
+      "slug": "moda-giyim",
+      "productCount": "250",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate3.png",
+        "original": "/assets/images/category/collection_3.jpg"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "Çantalar & Aksesuarlar",
+          "slug": "cantalar-aksesuarlar",
+          "children": [
+            {
+              "id": 1,
+              "name": "Mücevher & Saatler",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Aksesuarlar",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Düğün Yüzükleri",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Erkek Saatler",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "Kadın Saatler",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Elektronik & Dijital",
+          "slug": "elektronik-dijital",
+          "children": [
+            {
+              "id": 1,
+              "name": "Cep Telefonları & Tabletler",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Kamera, Fotoğraf & Video",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Cep Telefonları",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Tabletler",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "PC Oyunları",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Bahçe & Mutfak",
+          "slug": "bahce-mutfak",
+          "children": [
+            {
+              "id": 1,
+              "name": "Helikopterler & Parçaları",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Oyuncaklar & Hobiler",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Dış Mekan & Seyahat",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Ev & Mutfak",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "Aydınlatma & Lambalar",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Otomotiv",
+          "slug": "otomotiv",
+          "children": [
+            {
+              "id": 1,
+              "name": "Otomotiv",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Araç Alarm ve Güvenlik",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Araba Ses ve Hoparlörleri",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Ev & Mutfak",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "Aydınlatma & Lambalar",
+              "slug": "Daha Fazla Araç Aksesuarı"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Aydınlatma & Lambalar",
+          "slug": "aydinlatma-lambalar",
+          "children": [
+            {
+              "id": 1,
+              "name": "Düğün Yüzükleri",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Elektronik & Dijital",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Bahçe & Mutfak",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Ev & Mutfak",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "Tütün ve Puro Malzemeleri",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Ev Aksesuarları",
+          "slug": "aksesuarlar",
+          "children": [
+            {
+              "id": 1,
+              "name": "Çantalar & Aksesuarlar",
+              "slug": "cantalar-aksesuarlar"
+            },
+            {
+              "id": 2,
+              "name": "Elektronik & Dijital",
+              "slug": "elektronik-dijital"
+            },
+            {
+              "id": 3,
+              "name": "Bahçe & Mutfak",
+              "slug": "bahce"
+            },
+            {
+              "id": 4,
+              "name": "Erkek İçin Hediye",
+              "slug": "ev-mutfak"
+            },
+            {
+              "id": 5,
+              "name": "Kadın İçin Hediye",
+              "slug": "aydinlatma-lambalar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bahçe & Mutfak",
+      "slug": "bahce-mutfak",
+      "productCount": "120",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate4.png",
+        "original": "/assets/images/category/collection_4.jpg"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "Helikopterler & Parçaları",
+          "slug": "cantalar-aksesuarlar"
+        },
+        {
+          "id": 2,
+          "name": "Oyuncaklar & Hobiler",
+          "slug": "elektronik-dijital"
+        },
+        {
+          "id": 3,
+          "name": "Dış Mekan & Seyahat",
+          "slug": "bahce"
+        },
+        {
+          "id": 4,
+          "name": "Ev & Mutfak",
+          "slug": "ev-mutfak"
+        },
+        {
+          "id": 5,
+          "name": "Aydınlatma & Lambalar",
+          "slug": "aydinlatma-lambalar"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "TV & Video",
+      "slug": "tv-video",
+      "productCount": "250",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate5.png",
+        "original": "/assets/images/category/collection_5.jpg"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "Elmalar",
+          "slug": "elmalar"
+        },
+        {
+          "id": 2,
+          "name": "Kavunlar",
+          "slug": "kavunlar"
+        },
+        {
+          "id": 3,
+          "name": "Yaban Mersini",
+          "slug": "yaban-mersini"
+        },
+        {
+          "id": 4,
+          "name": "LG",
+          "slug": "lg"
+        },
+        {
+          "id": 4,
+          "name": "Samsung",
+          "slug": "samsung"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Güzellik & Sağlık",
+      "slug": "guzellik-saglik",
+      "productCount": "450",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate6.png",
+        "original": "/assets/images/category/collection_6.jpg"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "Meyve Suyu",
+          "slug": "meyve-suyu"
+        },
+        {
+          "id": 2,
+          "name": "Buzlu Kahve",
+          "slug": "buzlu-kahve"
+        },
+        {
+          "id": 3,
+          "name": "Comodianos",
+          "slug": "comodianos"
+        },
+        {
+          "id": 4,
+          "name": "Vurmalık",
+          "slug": "vurmalik"
+        },
+        {
+          "id": 5,
+          "name": "Montemous",
+          "slug": "montemous"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Mücevher & Saatler",
+      "slug": "mucevher-saatler",
+      "productCount": "320",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate7.png",
+        "original": "/assets/images/category/collection_6.jpg"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "Meyve Suyu",
+          "slug": "meyve-suyu"
+        },
+        {
+          "id": 2,
+          "name": "Ev Aletleri",
+          "slug": "ev-aletleri"
+        },
+        {
+          "id": 3,
+          "name": "Gömlekler",
+          "slug": "gomlekler"
+        },
+        {
+          "id": 4,
+          "name": "Vurmalık",
+          "slug": "vurmalik"
+        },
+        {
+          "id": 5,
+          "name": "Montemous",
+          "slug": "montemous"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Top 10 Teklif",
+      "slug": "quality-milk",
+      "productCount": "350",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate8.png",
+        "original": "/assets/images/category/collection_8.png"
+      },
+      "children": [
+        {
+          "id": 1,
+          "name": "Footwear",
+          "slug": "footwear"
+        },
+        {
+          "id": 2,
+          "name": "Digital",
+          "slug": "digital"
+        },
+        {
+          "id": 3,
+          "name": "Davenport",
+          "slug": "davenport"
+        },
+        {
+          "id": 4,
+          "name": "Punch",
+          "slug": "punch"
+        },
+        {
+          "id": 5,
+          "name": "Bedside",
+          "slug": "bedside"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Aksesuarlar",
+      "slug": "accessories",
+      "productCount": "350",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate2.png",
+        "original": "/assets/images/category/cold-drinks.png"
+      }
+    },
+    {
+      "id": 10,
+      "name": "İyi Et",
+      "slug": "beaf-steak",
+      "productCount": "620",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate2.png",
+        "original": "/assets/images/category/beaf-steak.png"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Vitaminler",
+      "slug": "vitamin-items",
+      "productCount": "420",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate2.png",
+        "original": "/assets/images/category/vitamin-items.png"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Tavuk",
+      "slug": "raw-chicken",
+      "productCount": "430",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate2.png",
+        "original": "/assets/images/category/raw-chicken.png"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Kahvaltılar",
+      "slug": "breakfast-item",
+      "productCount": "430",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate2.png",
+        "original": "/assets/images/category/breakfast-item.png"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Balıklar",
+      "slug": "fish-items",
+      "productCount": "430",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate2.png",
+        "original": "/assets/images/category/fish-items.png"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Sebzeler",
+      "slug": "green-vegetables",
+      "productCount": "430",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/category/cate2.png",
+        "original": "/assets/images/category/green-vegetables.png"
+      }
+    }
+  ]
+}
